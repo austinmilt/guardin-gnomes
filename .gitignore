@@ -4,5 +4,4 @@ asset_sources
 .vscode
 .editorconfig
 .eslint*
-tsconfig.json
 package-lock.json
